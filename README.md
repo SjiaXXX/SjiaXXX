@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**SjiaXXX/SjiaXXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi 👋
+我是孙嘉欣，现在是一名大二学生。我平常喜欢看小说，所以练就了一目十行的技能。
+#### 曾经对计算机专业的畅想
+当初选择计算机专业是觉得这个专业比较吃香，但后来发现虽然它吃香，但它也秃头。:scream:
+去年学习了一年的**JAVA**，从刚开始的陌生又难懂到现在慢慢熟悉了解后，开始思考，开始动手，打出完整代码的那一刻是非常有成就感的。
+#### 我的技能树和技术偏好
+目前学过了**JAVA**，**Dreamweaver**，**MySQL**等课程知识，对它们也有了一定了解，虽然不太熟练，但相信更过一段时间的练习肯定会有所提升。
+#### 之前做过的项目
+上学期期末大作业利用**JAVA**做了一个学生信息管理系统，做的过程中遇到了很多问题，但还是通过查资料、翻书解决了。
+#### 期待在课程中收获什么
+在课程中希望我能在学习到这门课的知识的同时，可以对相关专业的知识有一个更深刻的了解。
